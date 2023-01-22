@@ -1,4 +1,4 @@
-![Dhruv Parmar](https://media-exp1.licdn.com/dms/image/C4E03AQGKWXr2lAKf8Q/profile-displayphoto-shrink_800_800/0/1649840968924?e=1670457600&v=beta&t=i0uTEiWjUo4jiKp3FRN0FwMIoSGEkPEJPU32xT0HGX4)
+![Dhruv Parmar]()
 
 Hi!, I am Dhruv Parmar. I am Junior Web Developer in Yudiz Solutions Ltd., Ahmedabad, Gujarat. I am interested in learing new and creative things in Web Designing as well as in Web Developing. You can have a glance of my work in repository section as well as you can learn React with me.
 
