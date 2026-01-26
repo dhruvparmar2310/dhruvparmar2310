@@ -5,27 +5,46 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Hi, I'm Dhruv Parmar 👋</h1>
+<h3 align="center">React Developer | NextJs Developer | JavaScript Developer</h3>
+
+<p align="center">
+I build clean, responsive, and scalable frontend applications using modern web technologies.
+<br/>
+Focused on React, performance, and real-world problem solving.
+</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 👨‍💻 About Me
 
-I am Dhruv Parmar, Sr. React Developer at Yudiz Solutions Ltd., Ahmedabad, Gujarat.
+- Frontend Developer specializing in **React & NextJs based web applications**
+- Strong foundation in **JavaScript, component architecture, and state management**
+- Passionate about building **clean UI, reusable components, and scalable code**
+- Based in 🇮🇳 India, open to global opportunities
 
-My Projects:
-- [Indian Journal of Physical Therapy](https://ijopt.co.in)
-- [PhysioZine](https://physiozine.vercel.app)
-- [NextJs Bhagavad Gita](https://github.com/dhruvparmar2310/NextJs-BhagavadGita)
-- Learn [React](https://github.com/dhruvparmar2310/React) with me
+## 🛠 Skills & Technologies
 
-  <h3 align="left">🔥   My Stats :</h3>
+### Frontend
+- **React.js**
+- **Next.js**
+- JavaScript (ES6+)
+- React Query
+- GraphQL
+- MS SQL
+- ExpressJs (Beginner)
+- HTML5, CSS3
+- Tailwind CSS
+- Saas CSS
+- Responsive UI & Layouts
 
-###
+👉 View my work:  
+🔗 https://github.com/dhruvparmar2310?tab=repositories
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhruvparmar2310&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 🌐 Portfolio
+
+- 🌍 Website: **https://dhanparmar.netlify.app**
+
 
 <h3 align="left">Technologies I use :</h3>
 
