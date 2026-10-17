@@ -8,11 +8,11 @@
 </div>
 
 <!-- 👋 ABOUT ME -->
-<table width="100%" cellpadding="0" cellspacing="0">
+<table>
   <tr>
     <td width="28%" align="center" valign="middle" style="padding: 0;">
       <img
-        src="https://github.com/dhruvparmar2310.png"
+        src="https://github.com/dhruvparmar2310/dhruvparmar2310/blob/main/profile.jpeg"
         width="100%"
         alt="Dhruv Parmar"
       />
@@ -20,15 +20,12 @@
     <td width="72%" valign="middle" style="padding: 24px;">
       <h2>Hey there! 👋</h2>
       <h3>Building thoughtful experiences for the web.</h3>
-
       <p>
         I'm a <strong>Senior Software Engineer</strong> with 3+ years of experience building responsive, high-performance web applications using React.js and Next.js.
       </p>
-
       <p>
         I focus on clean, maintainable, component-driven code, reusable architecture, and performance. I also explore AI-powered development tools to improve my workflow without compromising quality.
       </p>
-
       <p>
         🌐 <a href="https://dhanparmar.netlify.app/">Portfolio</a>
         &nbsp;•&nbsp;
@@ -37,10 +34,8 @@
         🤝 <a href="https://dhanparmar.netlify.app/#contact">Let's Connect</a>
       </p>
     </td>
-
   </tr>
 </table>
-
 ---
 
 <!-- 🛠️ TECH STACK -->
