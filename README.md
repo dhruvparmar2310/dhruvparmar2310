@@ -1,4 +1,3 @@
-
 <!-- ✨ PROFILE HEADER -->
 <div align="center">
   <img
@@ -13,7 +12,7 @@
   <tr>
     <td width="30%" align="center" valign="middle">
       <img
-        src="https://github.com/dhruvparmar2310.png"
+        src="https://github.com/dhruvparmar2310/dhruvparmar2310/blob/main/profile.jpeg"
         width="190"
         alt="Dhruv Parmar"
       />
@@ -72,6 +71,23 @@
 </div>
 
 ---
+
+<!-- 📖 DAILY.DEV -->
+<h2 align="center">📖 My Developer Journey</h2>
+
+<p align="center">
+  Learning, exploring, and staying up to date with the developer community.
+</p>
+
+<div align="center">
+  <a href="https://daily.dev/dhruvparmar92">
+    <img
+      src="https://api.daily.dev/devcards/v2/PNBsgn7cuO9oYjF05Ji50.png?type=wide&r=h0t"
+      width="652"
+      alt="Dhruv Parmar's daily.dev DevCard"
+    />
+  </a>
+</div>
 
 <!-- 🚀 FEATURED PROJECTS -->
 <h2 align="center">🚀 Featured Projects</h2>
